@@ -10,13 +10,13 @@ describe('FizzBuzz', () => {
   });
 
   describe('1st feature', () => {
-    it('should ', () => {
+    it('should work minimalisticly ', () => {
       //ARANGE
       
       //ACT
       let result:string = sut.Say(0);
       //ASSERT
-      expect(result).to.equal("0");
+      expect(result).to.equal("");
     });
   });
 });

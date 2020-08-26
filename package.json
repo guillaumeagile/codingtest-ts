@@ -13,7 +13,7 @@
     "@types/chai": "^3.4.32",
     "@types/jasmine": "^2.2.33",
     "@types/mocha": "^2.2.31",
-    "@types/core-js": "0.9.39",
+    "@types/core-js": "^0.9.39",
     "chai": "^3.5.0",
     "mocha": "^3.0.2",
     "typescript": "^2.0.0"
